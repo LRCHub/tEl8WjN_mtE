@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "艶麗",
+  "base_artist": "This is LAST",
+  "createdAt": "2025-12-16T17:47:34.435002Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "艶麗",
+      "artist": "This is LAST",
+      "has_synced": false,
+      "path": "select/pl_01_艶麗_This_is_LAST.txt"
+    }
+  ]
+}
